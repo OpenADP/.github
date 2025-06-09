@@ -36,7 +36,7 @@ to provide the distributed trust network.  Areas where we need help include:
 * Running OpenADP servers. This is a T-of-N scheme, where users will need
   say 9 of 15 nodes to be available to recover their backups.
 * Android client app, and preferably tight integration with the platform as an
-* alternate backup service.
+  alternate backup service.
 * Same with iOS
 * Authentication. Users should register, and login before they can use any of
   their limited guesses to their phone unlock secret.
