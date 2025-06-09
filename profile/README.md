@@ -4,7 +4,7 @@ Open source Advanced Data Protection for everyone
 
 This project is recruiting!  Consider helping out!
 Either [post on Issue #1](https://github.com/OpenADP/openadp/issues/1), or
-[join us on Discord](https://discord.gg/QVzRek98)
+[join us on Discord](https://discord.gg/TaHNeGsE8j)
 
 ## Motivation
 
