@@ -8,9 +8,7 @@ Either [post on Issue #1](https://github.com/OpenADP/openadp/issues/1), or
 
 ## Motivation
 
-WaywardGeek helped build [Google's version of Advanced Data
-Protection](https://developer.android.com/about/versions/pie/security/ckv-whitepaper)
-back in 2018.  Today, such systems [are under
+Today, systems like Apple's Advanced Data Protection [are under
 attack](https://www.bloomberg.com/news/articles/2025-02-21/apple-removes-end-to-end-encryption-feature-from-uk-after-backdoor-order).
 There is a real threat that governments will order creation of secret mass
 surveillance backdoors like [what Yahoo was forced to
